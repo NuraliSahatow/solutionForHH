@@ -1,0 +1,9 @@
+SELECT P.Name AS 'Product Name', C.Name AS 'Category Name'
+FROM Products P
+LEFT JOIN ProductCategory PC ON P.ProductId = PC.ProductId
+LEFT JOIN Categories C ON C.CategoryId = PC.CategoryId
+
+В этом запросе используется левое соединение (LEFT JOIN) между таблицами "Продукты"
+(Products P) и "ПродуктКатегория" (ProductCategory), а также левое соединение 
+(LEFT JOIN) между таблицами "ПродуктКатегория" и "Категории" (Categories C). 
+Это позволяет выбирать все продукты из таблицы "Продукты", даже если у них нет соответствующих категорий.
