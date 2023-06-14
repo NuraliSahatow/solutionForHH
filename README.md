@@ -12,8 +12,8 @@ method, which checks if the triangle is a right triangle.
 
 Additionally, we added the Main method, which demonstrates 
 using the library to calculate the areas of a circle and a 
-triangle, and to check if a triangle is right-angled.
-------------------English-------------------------------
+triangle, and to check if a triangle is right-angled.</br>
+------------------English-----------------------------------------------------------------------------------------------------------------------------</br>
 ------------------Russian-------------------------------
 В этом примере создана библиотека с интерфейсом IShape, 
 который определяет метод CalculateArea() для вычисления 
