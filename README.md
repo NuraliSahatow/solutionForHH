@@ -1,5 +1,5 @@
 # solutionForHH
-Solution for get job in HH.ru
+Solution for get job in HH.ru </br>
 ------------------English-------------------------------
 This example creates a library with an IShape interface 
 that defines a CalculateArea() method to calculate the 
