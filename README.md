@@ -1,6 +1,6 @@
 # solutionForHH
 Solution for get job in HH.ru </br>
-------------------English-----------------------------------------------------------------------------------------------------------------------------</br>
+--------------------------------------------------------English---------------------------------------------------------------------------------------</br>
 This example creates a library with an IShape interface 
 that defines a CalculateArea() method to calculate the 
 area of the shape. Then Circle and Triangle classes 
