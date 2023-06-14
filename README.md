@@ -1,6 +1,6 @@
 # solutionForHH
 Solution for get job in HH.ru </br>
---------------------------------------------------------English---------------------------------------------------------------------------------------</br>
+-----------------------------------------------------------------------English------------------------------------------------------------------------</br>
 This example creates a library with an IShape interface 
 that defines a CalculateArea() method to calculate the 
 area of the shape. Then Circle and Triangle classes 
@@ -13,7 +13,7 @@ method, which checks if the triangle is a right triangle.
 Additionally, we added the Main method, which demonstrates 
 using the library to calculate the areas of a circle and a 
 triangle, and to check if a triangle is right-angled.</br>
-------------------English-----------------------------------------------------------------------------------------------------------------------------</br>
+-----------------------------------------------------------------------English------------------------------------------------------------------------</br>
 ------------------Russian-------------------------------
 В этом примере создана библиотека с интерфейсом IShape, 
 который определяет метод CalculateArea() для вычисления 
